@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>.</title>
     <link rel="stylesheet" href="s.css">
+    <link rel="icon" href="favicon.ico">
     <script type="text/javascript" src="xd.js"></script>
 </head>
 <body style="background-color: black;">
