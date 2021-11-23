@@ -17,4 +17,4 @@ function delz()
     console.log(c)
     c.remove()
 }
-document.addEventListener("DOMContentLoaded",delz);
+document.addEventListener("DOMContentLoaded",delz); // something :)
